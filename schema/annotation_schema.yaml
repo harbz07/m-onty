@@ -1,0 +1,11 @@
+version: 1
+description: Relational annotation schema for M-Onty v1
+labels:
+  tone:
+    values: [empathetic, neutral, directive]
+  context_recall:
+    values: [strong, weak, absent]
+  relational_fit:
+    values: [attuned, mismatched]
+  synthesis_quality:
+    values: [coherent, fragmented]
