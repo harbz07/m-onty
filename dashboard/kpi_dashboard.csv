@@ -1,0 +1,8 @@
+week,rapport_mean,flexibility_mean,synthesis_score,autonomy_score,notes
+1,,,,,"Kickoff; schema finalized."
+2,,,,,"Pilot OCR; annotate 100 samples."
+3,,,,,"First fine-tune; collect ratings."
+4,,,,,"Iterate schema; empathy focus."
+5,,,,,"Expand data; autonomy tests."
+6,,,,,"Consolidate results; synthesis."
+7,,,,,"Documentation; paper polish."
