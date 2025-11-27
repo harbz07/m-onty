@@ -144,7 +144,7 @@ This project draws on Merleau-Ponty's concepts:
 - **Privacy**: All personal data remains local; no external sharing
 - **Authenticity**: Transparency about AI nature; no deception
 - **Instrumental limits**: Companion AI as research tool, not replacement for human relationships
-- **Academic integrity**: Clear boundaries between AI assistance and independent thinking for PHIL 402
+- **Academic integrity**: Clear boundaries between AI assistance and independent thinking for PHIL 402 (see syllabus for details)
 
 ## Success criteria (end of Week 7)
 
