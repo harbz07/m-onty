@@ -1,3 +1,7 @@
 numpy
 pandas
 pillow
+opencv-python
+openai>=1.0.0
+python-dotenv
+pyyaml
